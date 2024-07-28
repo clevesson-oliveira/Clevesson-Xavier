@@ -1,7 +1,7 @@
 # Hello, I'm Clevesson! 👾
 Sou estudante de Ciência da Computação, estou sempre em buscar aprender algo novo.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clevesson-Xavier&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clevesson-oliveira&layout=compact)
 
 ## Tecnologias
 
